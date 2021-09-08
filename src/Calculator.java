@@ -8,6 +8,7 @@ public class Calculator {
 
         System.out.println("Hej Christian, FINALLY");
         System.out.println("☀️");
+
         
            
     }

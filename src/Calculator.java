@@ -4,6 +4,9 @@ public class Calculator {
 
         System.out.println("Hej Laura");
         System.out.println("Hej Christian");
+        System.out.println("Hej fra gitHub");
+        
+           
     }
 
 

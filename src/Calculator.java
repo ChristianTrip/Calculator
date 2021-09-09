@@ -1,13 +1,13 @@
 public class Calculator {
+    
+    static int sumOfTwoInts(int a, int b){
+        System.out.print(a + " + " + b + " = ");
+        return a + b;
+    }
 
     public static void main(String[] args) {
 
-        System.out.println("Hej Laura");
-        System.out.println("Hej Christian");
-        System.out.println("Hej fra gitHub");
-
-        System.out.println("Hej Christian, FINALLY");
-        System.out.println("☀️");
+        System.out.println(sumOfTwoInts(765, 347));
 
         
            
